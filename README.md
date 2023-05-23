@@ -1,4 +1,10 @@
+
+
 ### Olá Eu sou o Rafael Xavier 😃 🎧 🖥️
+
+
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-xavier-5b002a107/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaellxavierr/)
@@ -19,4 +25,8 @@
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div><br/>
 
+
 Criar ferramentas que facilitam a vida de pessoas, com o uso da Tecnologia. Saber que estou envolvido nisso, me matem sempre motivado! 
+<div style="display: inline_block" ><br>
+    <img align="rigth" alt="linux" src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width= 1280px, height= 200/>
+</div>
