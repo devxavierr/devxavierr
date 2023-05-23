@@ -27,6 +27,3 @@
 
 
 Criar ferramentas que facilitam a vida de pessoas, com o uso da Tecnologia. Saber que estou envolvido nisso, me matem sempre motivado! 
-<div style="display: inline_block" ><br>
-    <img align="rigth" alt="linux" src="https://media.giphy.com/media/KouuVwfTuArOWeerLM/giphy.gif" width= 1280px, height= 200/>
-</div>
